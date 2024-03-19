@@ -1,6 +1,6 @@
 # Full Stack Blog Application
 
-The Full Stack Blog Application is a web application that allows users to create, read, update, and delete (CRUD) blogs. It supports multiple roles including user, admin, and editor, each with specific permissions. Users can register themselves, perform CRUD operations on their blogs, upload images, text, and links, and reset their passwords if forgotten. Pagination and sorting functionalities are also provided for better user experience.
+The Full Stack Blog Application is a Java-based web application that allows users to create, read, update, and delete (CRUD) blogs. It supports multiple roles including user, admin, and editor, each with specific permissions. Users can register themselves, perform CRUD operations on their blogs, upload images, text, and links, and reset their passwords if forgotten. Pagination and sorting functionalities are also provided for better user experience.
 
 ## Features
 
@@ -17,6 +17,7 @@ The Full Stack Blog Application is a web application that allows users to create
 
 ## Technologies Used
 
+- **Java**: Core programming language used for backend development.
 - **Spring Boot JPA**: Provides easy-to-use abstraction for data access using JPA.
 - **Thymeleaf**: Server-side template engine for building HTML views.
 - **HTML, CSS, JavaScript**: Frontend technologies for building the user interface.
@@ -43,5 +44,3 @@ The Full Stack Blog Application is a web application that allows users to create
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or submit a pull request.
-
-
