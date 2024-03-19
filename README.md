@@ -63,6 +63,9 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 # Post Details : 
 ![Screenshot (121)](https://github.com/saurabhpatle07/blog-Application/assets/107913745/34b8f837-369e-40db-ab87-e9680cf0295c)
 
+# To Read Individual Post :
+![Screenshot (126)](https://github.com/saurabhpatle07/blog-Application/assets/107913745/c4857c56-0bdd-4b55-96af-5d9ed849faa3)
+
 # User's Home Page :
 ![Screenshot (122)](https://github.com/saurabhpatle07/blog-Application/assets/107913745/ac623275-3157-467c-ac61-05d8a771769a)
 
